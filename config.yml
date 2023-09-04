@@ -16,7 +16,7 @@ timeout: 1 # How much time to wait some node to respond to the bot (if you chang
 # Panel Configuration
 panel:
     url: 'https://panel.thisalesa.eu.org/'
-    key: 'ptla_UOwLHlKyLUVLtpI7zz5asWEysrFiJO7UCBqwb6HZwTh'
+    key: ''
 
 # Message and Embed Configuration
 # leave '' if you want to disable option
