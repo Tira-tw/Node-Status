@@ -44,7 +44,7 @@ button:
         url: 'https://panel.thisalesa.eu.org/'
     btn2:
         label: '覺得這個狀態不錯想要用看看?'
-        url: ''
+        url: 'https://github.com/Tira-tw/Node-Status'
     btn3:
         label: ''
         url: ''
