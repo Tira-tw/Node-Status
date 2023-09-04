@@ -9,7 +9,7 @@ presence:
     status: 'online' # can be 'online', 'idle', 'dnd', or 'invisible'
 
 # Discord Channel and Refresh Time Configuration
-channel: '1134448814326022165'
+channel: ''
 refresh: 60 # How much time the bot will refresh the stats
 timeout: 1 # How much time to wait some node to respond to the bot (if you change this, it will add more time to refresh the stats)
 
